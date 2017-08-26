@@ -1,0 +1,53 @@
+[Cross-cuts between a flaming space ship entering orbit and the chill of cryo-cells. The cross-cuts are temporally mismatched such that the ship has already landed in the cryo-cell frames. A military officer walks through the cells, patrolling for candidates to unfreeze. Cut to a shopping list of paper (unalphabetized), which contains the information with only one name left to cross off:
+
+2x Doctor - ||Names||
+1x Civil Engineer 
+4x Agricultural Engineer
+2x Mechanical Engineer
+…
+
+[The cryo-chambers have a 2ft glass panel where the face is, and a metallic hull for the rest of the cell. The man walks through row after row of cryo-cells when he stops after passing by the myriad faces and notices not a head but feet through the glass. Cross-cut to both standing chirally opposed to one another, the cryo-candidate on the left and the officer facing him. They “stand” equally tall, however the officer is roughly a foot taller (the handstand hides the height of the cryo-inhabitant). Paused for several seconds, the officer walks closer to the cell, curious to inspect the face of the person through the glass portal. As he walks closer, his breath touches upon the glass, forming words as his breath brings life to the hidden letters:
+
+||Sherlock||
+
+||Mechanical Engineer||
+
+[The man takes a moment, sighs deeply, and walks away. He proceeds to open the cell of the other man, ||Name||. On the way back the man stops by the cell a second time.]
+		Military Officer:
+			“Fuck it.”
+
+[The military officer holds the paper against the cell and forges ||Sherlock||'s  name on the bottom of the list. He then presses a button on the terminal and the thawing process begins. The man walks away to gather together the thawing cryo-inhabitants for their first day on Ammonia.
+
+[Continue the cross-cutting between the fire and thawing. The ship is seen slowly landing in the middle of a well cultivated field. The man gathers together the men and women he had unfrozen, who let out indistinct murmurs in the background. Cross-cut to ||Sherlock|| falling over from his cryo-chamber after his long slumber. He starts coughing profusely for air, which causes the military officer to rush over with his procession. ||Sherlock|| coughs, regaining consciousness and opening his eyes for the first time in several years. His first words:
+	||Sherlock||:
+		[coughing vehemently] “Did I break 100 years?”
+	Military Officer:
+		“On both planets, yes.”
+	||Sherlock||:
+		[victorious, standing at a towering 150cm] “Atlas doesn't have shit on me.”
+	Military Officer:
+		[offering his hand] “You broke records with some great fucking ingenuity.”
+	||Sherlock||:
+		[brushing away the officer's hand and pushing himself onto his feet] “It wouldn't feel right accepting help on the home stretch.”
+	Military officer:
+		[smirking] “Very well”
+
+[The military officer walks down the lines of cryo-cells leading the civilians to the exit. The group exits the cryo-facility only to amalgamate with several other groups in a briefing room. At the front of the room there is a scientist named ||Vegapunk|| with highly reflective glasses that obscure his eyes.]
+
+	||Vegapunk||:
+		“As many of you already know, we are not alone in this world. Shortly after humans arrived on Ammonia, we discovered alien life as we know it today. Aliens were nothing like what we expected, and yet they were everything that we expected, but we'll get to that in a moment.
+		“We stand here on what is known as a coreless planet, which means metals are scarce in this world. The atmosphere here has more oxygen than you are used to with warmer temperatures year-round. The air also has trace amounts of ammonia, which causes headaches and coughing for a lot of newbies.
+		“The aliens themselves are very different, evolutionarily, from human beings. They do not, for instance, age or have children like we do. They live by adapting to their societies through non-Darwinian evolution free of natural selection. They are sexless and undergo asexual reproduction through splitting their regenerative core to make offspring.
+		“Perhaps most interestingly is the boundless evolution of aliens, they are not restricted like humans to one unchanging body, they can will unto themselves new limbs and senses, or fewer. These aliens can alter their body over the course of weeks or months, depending on their familiarity.”
+
+[Insert Science/Setting/Intro/Fish-out-of-water details here.]
+
+[||Zombie|| enters the stage from a door on the right (from the onlooker's perspective). ||Zombie|| is a domineering lieutenant who puts victory above lives (his included).  With his right arm, he drags in a dead alien, throwing it center stage over a surface and knocking over several miscellaneous items (navigational tools and maps).]
+
+	||Zombie||:
+		“These are the aliens who have slaughtered countless men and women. They have burned our cities to the ground and sold our fellow citizens into slavery. They have ignored our attempts at negotiations and have met the white flag of surrender with complete annihilation, sparing no one. They know neither mercy nor fear, making them daunting enemies.
+		“Because of them, humankind has seen 57% human casualties despite unfreezing over 3 times the original human resource quota. We have watched as 22 of the C60 military bases have gone defunct, and over a hundred lesser cities have been raided or burned to the ground.
+
+[he gestures behind him (with palm and fingers fully outstretched) towards a map with 22 large red crosses towards the equator and numerous orange and yellow crosses throughout the inner workings of the buckyball-esque layout of C60 cities.]
+ 
+[Dissection of an alien]
